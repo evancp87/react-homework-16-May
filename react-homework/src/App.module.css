@@ -1,0 +1,26 @@
+li {
+   list-style-type: none;
+    max-width: 100%;
+    cursor: pointer;
+}
+
+
+.toBuy {
+background-color: red;
+}
+
+.done {
+    text-decoration: line-through;
+    background-color: green;
+}
+
+.itemContainer {
+    display: flex;
+}
+
+
+
+span {
+    margin-left: 2rem;
+}
+
